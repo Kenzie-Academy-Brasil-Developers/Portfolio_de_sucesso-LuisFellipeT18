@@ -3,7 +3,7 @@ import { Project } from "../interfaces";
 export const projects: Project[] = [
     { 
       id: 1,
-      name: "Desafio Back-end ",
+      name: "Desafio Back-end",
       languages: ["HTML", "SCSS", "React", "Typescript"],  
       description: "Esse é um projeto de finalização de curso, baseado em uma agenda virtual, onde é possível armazenar contatos. Possível criar seu usuário e sua rede de contatos com todas funcionalidades de edição, exclusão e atualização.",
       link_project: "https://front-388lhjp6u-luisfellipet18.vercel.app/user",

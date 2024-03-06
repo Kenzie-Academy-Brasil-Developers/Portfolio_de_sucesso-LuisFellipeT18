@@ -11,7 +11,7 @@ export const DashBoard = () => {
                         <p className={style.paragraph_description}>No linkedIn sempre estou 
                             <span className={style.span_description}> compartilhando </span>
                             meus processos diários para desenvolver
-                            esses projetos e estou disposto a trocar algumas ideias por lá
+                            esses projetos e estou disposto a trocar algumas ideias por lá.
                         </p>
 
                        

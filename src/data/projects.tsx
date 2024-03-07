@@ -13,7 +13,7 @@ export const projects: Project[] = [
       id: 2,
       name: "Burguer Kenzie",
       languages: ["HTML", "SCSS", "Javascript", "figma"], 
-      description: "Acessa uma lista de productos utilizando um database , simulando um carrinho de compras com React e utilizando como base um projeto estilizado no figma.",
+      description: "Acessa uma lista de produtos utilizando um database , simulando um carrinho de compras com React e utilizando como base um projeto estilizado no figma.",
       link_project: "https://template-hamburgueria-tawny.vercel.app/",
       github: "https://github.com/Kenzie-Academy-Brasil-Developers/Template-Hamburgueria-LuisFellipe-T18"
     },
